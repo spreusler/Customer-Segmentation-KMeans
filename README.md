@@ -2,6 +2,8 @@
 
 Do you want to understand your customers better? Do you want to segment your customers in order to target them better and generate more revenue? This repository shows you how to do it with a K-Means algorithmn implementation with scikit learn.
 
+Furthermore we added Prinicipal Component Analysis (PCA) and tested different normalization methods.
+
 ## Getting Started
 
 - Download Notebook

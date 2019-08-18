@@ -16,7 +16,7 @@ Furthermore we added Prinicipal Component Analysis (PCA) and tested different no
 - Pandas
 - Matplotlib
 - Seaborn
-- scikit-learn
+- Scikit-learn
 
 ## License
 

@@ -11,6 +11,13 @@ Furthermore we added Prinicipal Component Analysis (PCA) and tested different no
 - Start Jupyter instance
 - Open Notebook
 
+## Libraries used
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- scikit-learn
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

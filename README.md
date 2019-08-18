@@ -9,6 +9,7 @@ Furthermore we added Prinicipal Component Analysis (PCA) and tested different no
 - Download Notebook
 - Install required libraries (see "Import" part of notebook)
 - Start Jupyter instance
+- Open Notebook
 
 ## License
 
